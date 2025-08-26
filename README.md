@@ -9,8 +9,11 @@ Methodology:
 Cohort Analysis 
 
 Metrics:
+
 1.Retention Rate
 
-2.Net Revenue by COhort
-Cumulative Lifetive Revenue
-Customer Lifetime Value
+2.Net Revenue by Cohort
+
+3.Cumulative Lifetive Revenue
+
+4.Customer Lifetime Value
